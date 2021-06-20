@@ -20,7 +20,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EliteAPI\EliteAPI.csproj" />
+    <ProjectReference Include="..\EliteAPI\EliteAPI_Fork_Envisitor.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Test cases" />

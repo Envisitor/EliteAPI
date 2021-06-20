@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EliteAPI", "EliteAPI\EliteAPI.csproj", "{0D8FBA32-1B89-4EB3-BB0C-967667A00ED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EliteAPI_Fork_Envisitor", "EliteAPI\EliteAPI_Fork_Envisitor.csproj", "{0D8FBA32-1B89-4EB3-BB0C-967667A00ED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteAPI.Spansh", "EliteAPI.Spansh\EliteAPI.Spansh.csproj", "{C74DEA36-AC9E-4548-98CF-96AECEEC5ADF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EliteAPI.Spansh", "EliteAPI.Spansh\EliteAPI.Spansh.csproj", "{C74DEA36-AC9E-4548-98CF-96AECEEC5ADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EliteAPI.Tests", "EliteAPI.Tests\EliteAPI.Tests.csproj", "{23607EC2-7CFC-4807-BB90-385D59ADB928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EliteAPI.Tests", "EliteAPI.Tests\EliteAPI.Tests.csproj", "{23607EC2-7CFC-4807-BB90-385D59ADB928}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,8 +44,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0BCC51F1-912C-4035-9484-7A45F70F1790}
